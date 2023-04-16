@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+.nav-link{
+color: #ffffff !important;
+width: 90.95px;
+height: 46px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+margin-left: 20px;
+transition: 0.5s !important;
+}
+.nav-link:hover{
+color: #FF00B8 !important;
+}
+.container-fluid{
+    justify-content: space-between;
+    
+}
+.logo{
+    width: 116px;
+    height: 102px;
+    margin-left: -5px !important;
+    
+}
+
+.t{
+   display: inline; 
+}
+.navbar{
+    background: #000;
+    padding-bottom: 20px;
+}
+
+.r{
+    width: 391px;
+    height: 58px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 46.592px;
+    line-height: 58px;
+    
+    color: #FF00B8;  
+}
+
+
+.banner{
+    position: relative;
+    background:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url('/ALL-IMP/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 788px;
+    overflow: hidden;
+}
+.child{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: green;
+}
+.x{
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 124px;
+
+color: #F7F7F7;
+}
+.btn-1{
+    background-color: white !important;
+    width: 263px;
+    height: 62px;
+    border-radius: 50px !important;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600 !important;
+font-size: 25px !important;
+
+}
+/* best section starts here */
+
+
+.card{
+    margin-bottom: 50px;
+}
+ .best{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#f{
+
+
+    font-family: 'Mochiy Pop P One', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 154px;
+
+}
+.textm{
+   text-align: left;
+}
+.m img{
+width: 450px;
+height: 400px;
+}
+
+
+.textS{
+    text-align: right;
+}
+.ok{
+    margin-top: 100px;
+}
+.fa-star, .fa-star-half-stroke{
+    color: gold;
+    margin-bottom: 20px;
+}
+.b{
+    border-radius: 20px;
+}
+.fa-circle-check{
+color: green;
+margin-bottom: 20px;
+
+}
+.big{
+    font-size: 30px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.textx{
+
+
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 190px;
+
+color: #000000;
+}
+.oks{
+    margin-bottom: 200px;
+}
+
+footer{
+    background-color:#737373;
+height: 300px;
+text-align: center;
+justify-content: center;
+display: flex;
+align-items: center;
+overflow: hidden;
+margin-top: 300px;
+}
+
+.icon{
+    border-bottom: 2px solid ;
+    margin-bottom: 20px;
+    width: 500px;
+padding: 20px;
+
+}
+.fa-brands {
+    margin-left: 20px;
+}
+.fa-facebook{
+    color: #3b5998;
+    background-color: white;
+    border-radius: 100%;
+}
+.fa-github{
+    color: #171515;
+    background-color: white;
+    border-radius: 100%;
+}
+.fa-youtube{
+    color: 	#FF0000;
+    background-color: #F7F7F7;
+}
+.fa-twitter{
+    color: #00acee;
+}
+.mxo{
+    font-size: 30px;
+}
+.po{
+    font-size: 20px;
+    font-weight: 600;
+}
